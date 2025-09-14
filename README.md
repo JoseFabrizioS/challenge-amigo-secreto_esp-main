@@ -56,5 +56,5 @@ El objetivo es practicar fundamentos de **JavaScript** (variables, arrays, condi
 
 ##📜 Licencia y autoría
 
-Desarrollado para fines educativos en el programa Oracle Next Education + Alura Latam.
+Desarrollado para fines educativos en el programa Oracle Next Education + Alura Latam.  
 Autor: José Fabrizio Santacruz Mujica // LinkedIn: www.linkedin.com/in/josé-fabrizio-santacruz-mujica
