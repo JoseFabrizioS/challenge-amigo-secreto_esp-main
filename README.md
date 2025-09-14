@@ -54,4 +54,7 @@ Si el campo está vacío → aparece el mensaje: "Por favor, inserte un nombre."
 Si el nombre ya existe → se muestra un mensaje de error.  
 El sorteo siempre selecciona un amigo al azar de la lista.  
 
+##📜 Licencia y autoría
 
+Desarrollado para fines educativos en el programa Oracle Next Education + Alura Latam.
+Autor: José Fabrizio Santacruz Mujica // LinkedIn: www.linkedin.com/in/josé-fabrizio-santacruz-mujica
