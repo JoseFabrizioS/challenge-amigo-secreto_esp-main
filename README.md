@@ -37,7 +37,7 @@ El objetivo es practicar fundamentos de **JavaScript** (variables, arrays, condi
 ## ▶️ Cómo usar
 1. Clona este repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/JoseFabrizioS/challenge-amigo-secreto_esp-main.git
 2. Abre el archivo index.html en tu navegador.
 
 ##📸 Vista previa
