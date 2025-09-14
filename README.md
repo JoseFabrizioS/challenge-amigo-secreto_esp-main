@@ -28,11 +28,11 @@ El objetivo es practicar fundamentos de **JavaScript** (variables, arrays, condi
 
 ## 📂 Estructura
 📦 amigo-secreto
-┣ 📂 assets # Imágenes e íconos
-┣ 📜 index.html # Página principal
-┣ 📜 style.css # Estilos
-┣ 📜 app.js # Lógica JS
-┗ 📜 README.md # Documentación
+┣ 📂 assets # Imágenes e íconos  
+┣ 📜 index.html # Página principal  
+┣ 📜 style.css # Estilos  
+┣ 📜 app.js # Lógica JS  
+┗ 📜 README.md # Documentación  
 
 ## ▶️ Cómo usar
 1. Clona este repositorio:  
