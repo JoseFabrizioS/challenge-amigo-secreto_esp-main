@@ -50,8 +50,8 @@ El objetivo es practicar fundamentos de **JavaScript** (variables, arrays, condi
 
 ##❗Notas
 
-Si el campo está vacío → aparece el mensaje: "Por favor, inserte un nombre."
-Si el nombre ya existe → se muestra un mensaje de error.
-El sorteo siempre selecciona un amigo al azar de la lista.
+Si el campo está vacío → aparece el mensaje: "Por favor, inserte un nombre." 
+Si el nombre ya existe → se muestra un mensaje de error. 
+El sorteo siempre selecciona un amigo al azar de la lista. 
 
 
